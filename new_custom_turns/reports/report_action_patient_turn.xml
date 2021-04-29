@@ -1,0 +1,13 @@
+<odoo>
+    <data>
+        <report
+            string="Selected Turn"
+            id="new_custom_turns_report"
+            model="new_custom_turns.turn"
+            report_type="qweb-pdf"
+            name="new_custom_turns.report_turn_card"
+            file="cnew_custom_turns.report_turn_card"
+            attachment_use="True"
+        />
+    </data>
+</odoo>

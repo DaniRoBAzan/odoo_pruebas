@@ -1,0 +1,11 @@
+<odoo>
+    <data>
+        <record id="turn0" model="new_custom_turns.turn">
+            <field name="name">Turno importado</field>
+            <field name="customer">1</field>
+            <field name="date">2020-01-01</field>
+            <field name="type">P</field>
+            <field name="done">1</field>
+        </record>
+    </data>
+</odoo>

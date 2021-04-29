@@ -1,0 +1,235 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* new_custom_turns
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-29 20:59+0000\n"
+"PO-Revision-Date: 2021-04-29 20:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: new_custom_turns
+#: model:ir.model.fields,field_description:new_custom_turns.field_new_custom_turns_turn__done
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_cnew_custom_turns_tree
+msgid "Attended"
+msgstr "Atendido"
+
+#. module: new_custom_turns
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_new_custom_turns_kanban
+msgid "Avatar"
+msgstr ""
+
+#. module: new_custom_turns
+#: model:ir.model.fields.selection,name:new_custom_turns.selection__sale_order__zone__c
+msgid "Center"
+msgstr "Centro"
+
+#. module: new_custom_turns
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_new_custom_turns_form
+msgid "Change state"
+msgstr "Cambiar estado"
+
+#. module: new_custom_turns
+#: model_terms:ir.actions.act_window,help:new_custom_turns.action_new_custom_turns_view
+msgid "Click 'New' to add a new turn!"
+msgstr "Click 'Nuevo' para agregar un nuevo turno!"
+
+#. module: new_custom_turns
+#: model:ir.model.fields,field_description:new_custom_turns.field_new_custom_turns_turn__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: new_custom_turns
+#: model:ir.model.fields,field_description:new_custom_turns.field_new_custom_turns_turn__create_date
+msgid "Created on"
+msgstr "Creado en"
+
+#. module: new_custom_turns
+#: model:ir.model.fields,field_description:new_custom_turns.field_new_custom_turns_turn__date
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_new_custom_turns_search
+msgid "Date"
+msgstr "Fecha"
+
+#. module: new_custom_turns
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.report_turn_card
+msgid "Date:"
+msgstr "Fecha"
+
+#. module: new_custom_turns
+#: model:ir.model.fields,field_description:new_custom_turns.field_new_custom_turns_turn__name
+msgid "Description"
+msgstr "Descripcion"
+
+#. module: new_custom_turns
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.report_turn_card
+msgid "Description:"
+msgstr "Descripcion:"
+
+#. module: new_custom_turns
+#: model:ir.model.fields,field_description:new_custom_turns.field_new_custom_turns_turn__display_name
+#: model:ir.model.fields,field_description:new_custom_turns.field_report_new_custom_turns_report_turn_card__display_name
+#: model:ir.model.fields,field_description:new_custom_turns.field_sale_order__display_name
+msgid "Display Name"
+msgstr "Nombre mostrado"
+
+#. module: new_custom_turns
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_cnew_custom_turns_tree
+msgid "Double"
+msgstr Duplicar"
+
+#. module: new_custom_turns
+#: model:ir.model.fields.selection,name:new_custom_turns.selection__new_custom_turns_turn__type__p
+msgid "Face-to-face"
+msgstr "Presencial"
+
+#. module: new_custom_turns
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_new_custom_turns_search
+msgid "Filter turns"
+msgstr "Filtrar turnos"
+
+#. module: new_custom_turns
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_new_custom_turns_search
+msgid "Group By"
+msgstr "Agrupar por"
+
+#. module: new_custom_turns
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_new_custom_turns_search
+msgid "Group by date"
+msgstr "Agrupar por fecha"
+
+#. module: new_custom_turns
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_new_custom_turns_search
+msgid "Group by state of turn"
+msgstr "Agrupar por estado del turno"
+
+#. module: new_custom_turns
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_new_custom_turns_search
+msgid "Group by type"
+msgstr "Agrupar por tipo"
+
+#. module: new_custom_turns
+#: model:ir.model.fields,field_description:new_custom_turns.field_new_custom_turns_turn__id
+#: model:ir.model.fields,field_description:new_custom_turns.field_report_new_custom_turns_report_turn_card__id
+#: model:ir.model.fields,field_description:new_custom_turns.field_sale_order__id
+msgid "ID"
+msgstr ""
+
+#. module: new_custom_turns
+#: model:ir.model.fields,field_description:new_custom_turns.field_new_custom_turns_turn__image
+msgid "Image"
+msgstr "Imagen"
+
+#. module: new_custom_turns
+#: model:ir.model.fields,field_description:new_custom_turns.field_new_custom_turns_turn____last_update
+#: model:ir.model.fields,field_description:new_custom_turns.field_report_new_custom_turns_report_turn_card____last_update
+#: model:ir.model.fields,field_description:new_custom_turns.field_sale_order____last_update
+msgid "Last Modified on"
+msgstr "Última modificación el"
+
+#. module: new_custom_turns
+#: model:ir.model.fields,field_description:new_custom_turns.field_new_custom_turns_turn__write_uid
+msgid "Last Updated by"
+msgstr "Última modificación por"
+
+#. module: new_custom_turns
+#: model:ir.model.fields,field_description:new_custom_turns.field_new_custom_turns_turn__write_date
+msgid "Last Updated on"
+msgstr "Última modificación el"
+
+#. module: new_custom_turns
+#: model:ir.model.fields.selection,name:new_custom_turns.selection__sale_order__zone__n
+msgid "North"
+msgstr "Norte"
+
+#. module: new_custom_turns
+#: model:ir.model.fields,field_description:new_custom_turns.field_new_custom_turns_turn__customer
+msgid "Patient"
+msgstr "Paciente"
+
+#. module: new_custom_turns
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.report_turn_card
+msgid "Patient:"
+msgstr "Paciente:"
+
+#. module: new_custom_turns
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_cnew_custom_turns_tree
+msgid "Remove"
+msgstr "Eliminar"
+
+#. module: new_custom_turns
+#: model:ir.model,name:new_custom_turns.model_sale_order
+msgid "Sales Order"
+msgstr "Pedido de venta"
+
+#. module: new_custom_turns
+#: model:ir.actions.report,name:new_custom_turns.new_custom_turns_report
+msgid "Selected Turn"
+msgstr "Turno seleccionado"
+
+#. module: new_custom_turns
+#: model:ir.model.fields.selection,name:new_custom_turns.selection__sale_order__zone__s
+msgid "South"
+msgstr "Sur"
+
+#. module: new_custom_turns
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_new_custom_turns_search
+msgid "State"
+msgstr "Estado"
+
+#. module: new_custom_turns
+#: model:ir.model.fields.selection,name:new_custom_turns.selection__new_custom_turns_turn__type__t
+msgid "Telephone"
+msgstr "Telefono"
+
+#. module: new_custom_turns
+#: model:ir.actions.act_window,name:new_custom_turns.action_new_custom_turns_view
+#: model:ir.model,name:new_custom_turns.model_new_custom_turns_turn
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.report_turn_card
+msgid "Turn"
+msgstr "Turno"
+
+#. module: new_custom_turns
+#: model:ir.ui.menu,name:new_custom_turns.menu_new_custom_turns_categ
+msgid "Turn list"
+msgstr "Listado de turnos"
+
+#. module: new_custom_turns
+#: model:ir.ui.menu,name:new_custom_turns.menu_new_custom_turns
+#: model:ir.ui.menu,name:new_custom_turns.menu_new_custom_turns_root
+#: model_terms:ir.actions.act_window,help:new_custom_turns.action_new_custom_turns_view
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_cnew_custom_turns_tree
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_new_custom_turns_form
+msgid "Turns"
+msgstr "Turnos"
+
+#. module: new_custom_turns
+#: model_terms:ir.ui.view,arch_db:new_custom_turns.view_new_custom_turns_search
+msgid "Type"
+msgstr "Tipo"
+
+#. module: new_custom_turns
+#: model:ir.model.fields,field_description:new_custom_turns.field_new_custom_turns_turn__type
+msgid "Type"
+msgstr "Tipo"
+
+#. module: new_custom_turns
+#: model:ir.model.fields.selection,name:new_custom_turns.selection__new_custom_turns_turn__type__w
+msgid "WhatsApp"
+msgstr ""
+
+#. module: new_custom_turns
+#: model:ir.model.fields,field_description:new_custom_turns.field_sale_order__zone
+msgid "Zone"
+msgstr "Zona"
+
+#. module: new_custom_turns
+#: model:ir.model,name:new_custom_turns.model_report_new_custom_turns_report_turn_card
+msgid "report.new_custom_turns.report_turn_card"
+msgstr ""
